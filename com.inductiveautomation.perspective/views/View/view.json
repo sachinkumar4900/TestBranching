@@ -3,6 +3,23 @@
   "params": {},
   "props": {},
   "root": {
+    "children": [
+      {
+        "meta": {
+          "name": "Image"
+        },
+        "position": {
+          "height": 36,
+          "width": 128,
+          "x": 173,
+          "y": 251
+        },
+        "props": {
+          "source": "/system/images/Imported/pentair-logo-web.svg"
+        },
+        "type": "ia.display.image"
+      }
+    ],
     "meta": {
       "name": "root"
     },
